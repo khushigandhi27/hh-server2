@@ -1,0 +1,14 @@
+{
+  "type": "service_account",
+  "project_id": "homehive2-ef567",
+  "private_key_id": "45083c03d32d03e0d846f737f07980f838e3bb08",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCr5ixvCLozUvxP\nG0vOP6gVc97vyfS2khTiAurJeR9pqu5Qs8euAEV8mXRbjzaNZ7agr8W6uhGSgfpB\nG4Q2CEQl2jjJghBtqC+PScaQkIRrsRzCJMaU3TvRURGvy+CaZlNsk3BgpWfMNYQV\n2Lqv4M8HC/9BIWNLkI8i0Dpyes6QIn570QkSfdNlPvf/pM0yTDdEV1IOi9j6DIkg\nD497eQohbhVx4h6sP+jv7P+5cLA5Mo5ixDoJM9QjTQaeY1LBLANlKS20IIGqMdUZ\nozapAo25niAyE2RUWW6dtzLlXfl19hT2QzMv0Ao5r9HigDAEeVC94edig2lJ/nXU\nl35mx9U/AgMBAAECggEANHjFVXtfgy0wsWEOqb2KrEm7YozOMzCySS9Exg1ABnxT\n1LScHkQc8eTRvOUhbNacy7376HzFwmgEoP0qRWgOjVNohDI8m4x8QAvwHc7PbSQa\nODULnQNPMBzD/lqIi/jyPDFhW08COTaYxCZtDiTcbTU/TH1JlxZgausO/ET6asps\nmt/qpGH3ZA0qDUhtpUWrainIGBoVdwG+/qngIqMnn6tpS2BSwxJCpFPCSfqi5yrm\nDF4xWrvx4x53XnueBOsEI/tarO9SfCj4C7DaS6p+9v7ijYIF6hBrsqZIUg5RP7Ix\nBhSPZxW6Ed9h+9cB39aBLjx1xlPkddQgLBOL9DLzmQKBgQDYNIFoscxUGugPUUrc\niagmh5KZYMN4osBm0YFdmu6DwOOxyBtKgy6vrPK4UPU7Q609Eg/L42I9cjSuD4D3\n0O0gaRsnqhrztS3G4HpoQdXD81jASdZyAbBZPJ9ByRT+O7o/LhfD4l0KkxL4EX7R\n9KETGkr54FVJ9SbYEevyaeeCDQKBgQDLif0ODiVtJPCsh8aPa3FKq66kxLznNJBu\nNlUwCmVO+B5FBH+CqlPVrqUR6HbJnMcKC+SwyBdSwLPigiA/NreZHxlQk6oDfVJR\ncwCSw2d3W1fE+KYkx5FZNta3iImw3XbOa5cTRcG1tAffUPKnnrDGc/OgreKwHjSI\np+pkOzx9ewKBgE0mX09Wss0IVOqyXX5Y+NHW6u8kYlw352RJOlqGoLoPKLEV8Pcj\n3JL/qhUvfnLJcZYrTcu5tiKrEDVUfvbvbM518ySyRK/WZSFklQmDBJ7JxU/IiWdh\nRuZxBXtaH82gzpMhBYX2zrCpTsmKpLCTFK9WYI7OCGE9w8CylHmKZPw5AoGAOiUn\nV3aPFojxADihbqNA8BXvhD53wIzxnaqD13+AxXh4HTtVudwyqt6DZYRFOv9AlQwk\nvqPKleda/CA0WhqlhGav8qbccLbCZ2Y1CbgsvJopjqmBvQwN57CU0kV9IDuEDyAJ\nPoY0+lV90jvrthrNYUQKmyJRmgJm+4sMmKmbdDUCgYBUpLZMGCiW26dqhIr7PXKT\nBvS0fL4rWdwTNOTqByNfK1pS0inKP7JsKGCdRKw58GpqpLTQdLNWlecp9vfzGjY6\nmV1dvqG4wgPVJToNuMqqsc9uhwsqWsUYeRSUias5Ww5dyAbBUqDAg6/njPoKJdeG\n+KmR7zvlDR9BTKj+Vh9e2w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-izn3b@homehive2-ef567.iam.gserviceaccount.com",
+  "client_id": "107754430180141849008",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-izn3b%40homehive2-ef567.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com",
+  "firebase_bucket_url":"gs://homehive2-ef567.appspot.com"
+}
